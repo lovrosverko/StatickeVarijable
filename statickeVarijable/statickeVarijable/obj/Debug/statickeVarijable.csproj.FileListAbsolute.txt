@@ -1,0 +1,7 @@
+C:\Users\Profesori\source\repos\statickeVarijable\statickeVarijable\bin\Debug\statickeVarijable.exe.config
+C:\Users\Profesori\source\repos\statickeVarijable\statickeVarijable\bin\Debug\statickeVarijable.exe
+C:\Users\Profesori\source\repos\statickeVarijable\statickeVarijable\bin\Debug\statickeVarijable.pdb
+C:\Users\Profesori\source\repos\statickeVarijable\statickeVarijable\obj\Debug\statickeVarijable.csprojAssemblyReference.cache
+C:\Users\Profesori\source\repos\statickeVarijable\statickeVarijable\obj\Debug\statickeVarijable.csproj.CoreCompileInputs.cache
+C:\Users\Profesori\source\repos\statickeVarijable\statickeVarijable\obj\Debug\statickeVarijable.exe
+C:\Users\Profesori\source\repos\statickeVarijable\statickeVarijable\obj\Debug\statickeVarijable.pdb
